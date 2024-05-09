@@ -1,0 +1,6 @@
+
+<svg width="200" height="200">
+    <circle cx="100" cy="100" r="100" fill="red" />
+    <text x="50%" y="50%" fill="white" font-size="24" text-anchor="middle">OJK</text>
+</svg>
+  

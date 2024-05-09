@@ -6,7 +6,8 @@ This is challenge 8 of the UMN Bootcamp. Here I used object oriented programming
 
 ## Usage
 
-https://owenkanzler.github.io/challenge08-owen-kanzler/
+Demo Video:
+https://drive.google.com/file/d/1Fpy9tR-gv_F6BN2rTScuf9ykD4EUrUSx/view?usp=sharing
 
 ## License
 
